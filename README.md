@@ -4,6 +4,11 @@ I'm an Economist currently studying Data Science at Barcelona School of Economic
 
 ## 🚀 Skills & Expertise
 
+### Economics and Econometrics
+- **Causal Inference**
+- **Policy Evaluation**
+- **Economic Forecasting**
+
 ### Machine Learning & AI
 - **Machine Learning**
 - **Deep Learning**
@@ -14,11 +19,6 @@ I'm an Economist currently studying Data Science at Barcelona School of Economic
 - **Data Analytics**
 - **Data Visualization**
 - **Statistical Analysis**
-
-### Economics and Econometrics
-- **Causal Inference**
-- **Policy Evaluation**
-- **Economic Forecasting**
 
 
 ## 🛠️ Tools
