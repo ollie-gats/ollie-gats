@@ -1,6 +1,6 @@
 ## Hi there, I'm Ollie 👋
 
-I'm an Economist currently studying Data Science at Barcelona School of Economics
+I'm a Data Scientist with a background in Economics. After studying my masters at the Barcelona School of Economics, I'm looking for opportunities at the intersection of Data Science and Economics.
 
 ## 🚀 Skills & Expertise
 
